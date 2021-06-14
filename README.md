@@ -1,2 +1,2 @@
 # broodx.github.io
-Brood X band page 
+A band page for Brood X and my first attempt at HTML.
