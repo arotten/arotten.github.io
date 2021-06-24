@@ -17,5 +17,10 @@ h2 {
  }
 
 a:link {
-  color: #ffb6c1;
+  color: #ffb6c1; 
 }
+
+a:visited {
+  color: #a9f656;
+}
+
