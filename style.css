@@ -15,3 +15,7 @@ h2 {
   background-color: white;
   color: black;
  }
+
+a:link {
+  color: #ffb6c1;
+}
