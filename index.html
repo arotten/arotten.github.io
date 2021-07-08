@@ -67,5 +67,20 @@ img {
   
        </p>
         </article>
-
+<div id="list-builder"></div>
+<div id="popup-box">
+    <img src="close.png" id="popup-close" />
+    <div id="popup-box-content">
+        <h1>Subscribe to The Brood X Newsletter</h1>
+        <p>
+            Find out about our upcoming shows, prophecies, artwork, album drops, merch announcements, and more.
+        </p>
+        <form id="popup-form" action="https://email_list_service_api.com">
+            <input type="hidden" name="list" value="key_list_etc" />
+            <input type="text" name="name" placeholder="Full Name" />
+            <input type="text" name="email" placeholder="Email Address" />
+            <button type="button" name="subscribe">Subscribe</button>
+        </form>
+    </div>
+</div>
 </html>
