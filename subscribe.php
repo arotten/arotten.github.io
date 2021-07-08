@@ -1,6 +1,6 @@
 <?php
 $to = "broodxbooking@gmail.com"; // Your Brand Mail ID
-$from = "no-reply@example.com"; // Replace it with your From Mail ID
+$from = "email"; // Replace it with your From Mail ID
 
 $headers = "From: " . $from . "rn";
 
