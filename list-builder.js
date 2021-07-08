@@ -19,7 +19,7 @@ $(document).ready(function() {
                 url: $("#popup-form").attr("action"),
                 data: $("#popup-form").serialize(),
                 success: (data) => {
-                    $("#popup-box-content").html("<p style='text-align: center'>Thank you for subscribing to The Polyglot Developer newsletter!</p>");
+                    $("#popup-box-content").html("<p style='text-align: center'>Thank you for subscribing to The Brood X Newsletter!</p>");
                 }
             });
         });
